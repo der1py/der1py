@@ -1,6 +1,6 @@
 ## Hi, I'm Luke 👋
 
-I'm particularly interested in robotics and machine learning.
+I'm currently interested in robotics and machine learning, though I'm eager to gain exposure to all subfields of software engineering.
 
 ### Experience
 
