@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Luke 👋
 
-<!--
-**der1py/der1py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm particularly interested in robotics and machine learning.
 
-Here are some ideas to get you started:
+### Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SWE @ [WARG 🛩️]([url](https://github.com/UWARG)) (present)
+- FTC Robotics @ Mount Douglas Secondary School
+- ML Intern @ UVic
+- Contract Web Dev @ Coach Ram Nayyar
+
+### Cool projects
+
+- [School Timetable Optimizer]([url](https://github.com/der1py/school-timetable-optimizer))
+- [WATsForLunch]([url](https://github.com/der1py/WATsForLunch))
+- [APvP]([url](https://github.com/der1py/APvP))
+
+Feel free to slide into my DMs!
